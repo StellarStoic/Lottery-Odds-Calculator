@@ -1,0 +1,126 @@
+{
+    "lotteries": [
+        {
+            "name": "Powerball",
+            "numbers": 69,
+            "picks": 5,
+            "extra_numbers": 26,
+            "extra_picks": 1,
+            "draws_per_year": 156,
+            "default_currency": "USD",
+            "cost": 2.00
+        },
+        {
+            "name": "Lotto America",
+            "numbers": 52,
+            "picks": 5,
+            "extra_numbers": 10,
+            "extra_picks": 1,
+            "draws_per_year": 156,
+            "default_currency": "USD",
+            "cost": 1.00
+        },
+        {
+            "name": "Mega Millions",
+            "numbers": 70,
+            "picks": 5,
+            "extra_numbers": 25,
+            "extra_picks": 1,
+            "draws_per_year": 104,
+            "default_currency": "USD",
+            "cost": 2.00
+        },
+        {
+            "name": "EuroMillions",
+            "numbers": 50,
+            "picks": 5,
+            "extra_numbers": 12,
+            "extra_picks": 2,
+            "draws_per_year": 104,
+            "default_currency": "EUR",
+            "cost": 2.50
+        },
+        {
+            "name": "EuroJackpot",
+            "numbers": 50,
+            "picks": 5,
+            "extra_numbers": 12,
+            "extra_picks": 2,
+            "draws_per_year": 104,
+            "default_currency": "EUR",
+            "cost": 2.20
+        },
+        {
+            "name": "SuperEnalotto",
+            "numbers": 90,
+            "picks": 6,
+            "extra_numbers": 0,
+            "extra_picks": 0,
+            "draws_per_year": 156,
+            "default_currency": "EUR",
+            "cost": 1.00
+        },
+        {
+            "name": "La Primitiva",
+            "numbers": 49,
+            "picks": 6,
+            "extra_numbers": 9,
+            "extra_picks": 1,
+            "draws_per_year": 156,
+            "default_currency": "EUR",
+            "cost": 1.00
+        },
+        {
+            "name": "Germany Lotto",
+            "numbers": 49,
+            "picks": 6,
+            "extra_numbers": 0,
+            "extra_picks": 0,
+            "draws_per_year": 104,
+            "default_currency": "EUR",
+            "cost": 1.20
+        },
+        {
+            "name": "French Lotto",
+            "numbers": 49,
+            "picks": 5,
+            "extra_numbers": 10,
+            "extra_picks": 1,
+            "draws_per_year": 156,
+            "default_currency": "EUR",
+            "cost": 2.20
+        },
+        {
+            "name": "Swiss Lotto",
+            "numbers": 42,
+            "picks": 6,
+            "extra_numbers": 6,
+            "extra_picks": 1,
+            "draws_per_year": 104,
+            "default_currency": "CHF",
+            "cost":  2.50
+        },
+        {
+            "name": "VikingLotto",
+            "numbers": 48,
+            "picks": 6,
+            "extra_numbers": 5,
+            "extra_picks": 1,
+            "draws_per_year": 52,
+            "default_currency": "EUR",
+            "cost": 1.10
+        },
+        {
+            "name": "Slovenian Lotto",
+            "numbers": 44,
+            "picks": 6,
+            "extra_numbers": 0,
+            "extra_picks": 0,
+            "draws_per_year": 104,
+            "default_currency": "EUR",
+            "cost": 0.60
+        }
+
+    ]
+  }
+  
